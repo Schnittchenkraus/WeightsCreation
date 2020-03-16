@@ -1,0 +1,40 @@
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\WeightsCreation\bin\Debug\WeightsCreation.exe.config
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\WeightsCreation\bin\Debug\WeightsCreation.exe
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\WeightsCreation\bin\Debug\WeightsCreation.pdb
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\WeightsCreation\obj\Debug\WeightsCreation.csprojResolveAssemblyReference.cache
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\WeightsCreation\obj\Debug\WeightsCreation.exe
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\WeightsCreation\obj\Debug\WeightsCreation.pdb
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\WeightsCreation\bin\Debug\WeightsCreation.exe.config
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\WeightsCreation\bin\Debug\WeightsCreation.exe
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\WeightsCreation\bin\Debug\WeightsCreation.pdb
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\WeightsCreation\obj\Debug\WeightsCreation.csprojResolveAssemblyReference.cache
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\WeightsCreation\obj\Debug\WeightsCreation.exe
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\WeightsCreation\obj\Debug\WeightsCreation.pdb
+C:\DATA\WeightsCreation\WeightsCreation\bin\Debug\WeightsCreation.exe.config
+C:\DATA\WeightsCreation\WeightsCreation\bin\Debug\WeightsCreation.exe
+C:\DATA\WeightsCreation\WeightsCreation\bin\Debug\WeightsCreation.pdb
+C:\DATA\WeightsCreation\WeightsCreation\obj\Debug\WeightsCreation.csprojAssemblyReference.cache
+C:\DATA\WeightsCreation\WeightsCreation\obj\Debug\WeightsCreation.csproj.CoreCompileInputs.cache
+C:\DATA\WeightsCreation\WeightsCreation\obj\Debug\WeightsCreation.exe
+C:\DATA\WeightsCreation\WeightsCreation\obj\Debug\WeightsCreation.pdb
+C:\DATA\WeightsCreation - BIPS Strategie\WeightsCreation\bin\Debug\WeightsCreation.exe.config
+C:\DATA\WeightsCreation - BIPS Strategie\WeightsCreation\bin\Debug\WeightsCreation.exe
+C:\DATA\WeightsCreation - BIPS Strategie\WeightsCreation\bin\Debug\WeightsCreation.pdb
+C:\DATA\WeightsCreation - BIPS Strategie\WeightsCreation\obj\Debug\WeightsCreation.csprojAssemblyReference.cache
+C:\DATA\WeightsCreation - BIPS Strategie\WeightsCreation\obj\Debug\WeightsCreation.csproj.CoreCompileInputs.cache
+C:\DATA\WeightsCreation - BIPS Strategie\WeightsCreation\obj\Debug\WeightsCreation.exe
+C:\DATA\WeightsCreation - BIPS Strategie\WeightsCreation\obj\Debug\WeightsCreation.pdb
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\WeightsCreation\bin\Debug\WeightsCreation.exe.config
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\WeightsCreation\bin\Debug\WeightsCreation.exe
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\WeightsCreation\bin\Debug\WeightsCreation.pdb
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\WeightsCreation\obj\Debug\WeightsCreation.csprojAssemblyReference.cache
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\WeightsCreation\obj\Debug\WeightsCreation.csproj.CoreCompileInputs.cache
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\WeightsCreation\obj\Debug\WeightsCreation.exe
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\WeightsCreation\obj\Debug\WeightsCreation.pdb
+C:\DATA\WeightsCreation - Simplified\WeightsCreation\bin\Debug\WeightsCreation.exe.config
+C:\DATA\WeightsCreation - Simplified\WeightsCreation\bin\Debug\WeightsCreation.exe
+C:\DATA\WeightsCreation - Simplified\WeightsCreation\bin\Debug\WeightsCreation.pdb
+C:\DATA\WeightsCreation - Simplified\WeightsCreation\obj\Debug\WeightsCreation.csprojAssemblyReference.cache
+C:\DATA\WeightsCreation - Simplified\WeightsCreation\obj\Debug\WeightsCreation.csproj.CoreCompileInputs.cache
+C:\DATA\WeightsCreation - Simplified\WeightsCreation\obj\Debug\WeightsCreation.exe
+C:\DATA\WeightsCreation - Simplified\WeightsCreation\obj\Debug\WeightsCreation.pdb

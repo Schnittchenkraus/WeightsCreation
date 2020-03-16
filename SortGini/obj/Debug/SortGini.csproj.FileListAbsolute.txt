@@ -1,0 +1,77 @@
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\SortGini\bin\Debug\SortGini.exe.config
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\SortGini\bin\Debug\SortGini.exe
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\SortGini\bin\Debug\SortGini.pdb
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\SortGini\obj\Debug\SortGini.exe
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\SortGini\obj\Debug\SortGini.pdb
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\SortGini\obj\Debug\SortGini.csprojResolveAssemblyReference.cache
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\SortGini\bin\Debug\WeightsCreation.exe
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\SortGini\bin\Debug\WeightsCreation.pdb
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\SortGini\bin\Debug\WeightsCreation.exe.config
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\SortGini\bin\Debug\LearnTest.exe
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\SortGini\bin\Debug\LearnTest.pdb
+C:\Users\P224549\Documents\Visual Studio 2017\Projects\WeightsCreation\SortGini\bin\Debug\LearnTest.exe.config
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\SortGini\bin\Debug\SortGini.exe.config
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\SortGini\bin\Debug\SortGini.exe
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\SortGini\bin\Debug\SortGini.pdb
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\SortGini\bin\Debug\LearnTest.exe
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\SortGini\bin\Debug\WeightsCreation.exe
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\SortGini\bin\Debug\LearnTest.pdb
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\SortGini\bin\Debug\LearnTest.exe.config
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\SortGini\bin\Debug\WeightsCreation.pdb
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\SortGini\bin\Debug\WeightsCreation.exe.config
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\SortGini\obj\Debug\SortGini.csprojResolveAssemblyReference.cache
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\SortGini\obj\Debug\SortGini.exe
+D:\Repository\PV-Monitor\2018\DATA\WeightsCreation\SortGini\obj\Debug\SortGini.pdb
+C:\DATA\WeightsCreation\SortGini\bin\Debug\SortGini.exe.config
+C:\DATA\WeightsCreation\SortGini\bin\Debug\SortGini.exe
+C:\DATA\WeightsCreation\SortGini\bin\Debug\SortGini.pdb
+C:\DATA\WeightsCreation\SortGini\bin\Debug\LearnTest.exe
+C:\DATA\WeightsCreation\SortGini\bin\Debug\WeightsCreation.exe
+C:\DATA\WeightsCreation\SortGini\bin\Debug\LearnTest.pdb
+C:\DATA\WeightsCreation\SortGini\bin\Debug\LearnTest.exe.config
+C:\DATA\WeightsCreation\SortGini\bin\Debug\WeightsCreation.pdb
+C:\DATA\WeightsCreation\SortGini\bin\Debug\WeightsCreation.exe.config
+C:\DATA\WeightsCreation\SortGini\obj\Debug\SortGini.csprojAssemblyReference.cache
+C:\DATA\WeightsCreation\SortGini\obj\Debug\SortGini.csproj.CoreCompileInputs.cache
+C:\DATA\WeightsCreation\SortGini\obj\Debug\SortGini.csproj.CopyComplete
+C:\DATA\WeightsCreation\SortGini\obj\Debug\SortGini.exe
+C:\DATA\WeightsCreation\SortGini\obj\Debug\SortGini.pdb
+C:\DATA\WeightsCreation - BIPS Strategie\SortGini\bin\Debug\SortGini.exe.config
+C:\DATA\WeightsCreation - BIPS Strategie\SortGini\bin\Debug\SortGini.exe
+C:\DATA\WeightsCreation - BIPS Strategie\SortGini\bin\Debug\SortGini.pdb
+C:\DATA\WeightsCreation - BIPS Strategie\SortGini\bin\Debug\LearnTest.exe
+C:\DATA\WeightsCreation - BIPS Strategie\SortGini\bin\Debug\WeightsCreation.exe
+C:\DATA\WeightsCreation - BIPS Strategie\SortGini\bin\Debug\LearnTest.pdb
+C:\DATA\WeightsCreation - BIPS Strategie\SortGini\bin\Debug\LearnTest.exe.config
+C:\DATA\WeightsCreation - BIPS Strategie\SortGini\bin\Debug\WeightsCreation.pdb
+C:\DATA\WeightsCreation - BIPS Strategie\SortGini\bin\Debug\WeightsCreation.exe.config
+C:\DATA\WeightsCreation - BIPS Strategie\SortGini\obj\Debug\SortGini.csprojAssemblyReference.cache
+C:\DATA\WeightsCreation - BIPS Strategie\SortGini\obj\Debug\SortGini.csproj.CoreCompileInputs.cache
+C:\DATA\WeightsCreation - BIPS Strategie\SortGini\obj\Debug\SortGini.csproj.CopyComplete
+C:\DATA\WeightsCreation - BIPS Strategie\SortGini\obj\Debug\SortGini.exe
+C:\DATA\WeightsCreation - BIPS Strategie\SortGini\obj\Debug\SortGini.pdb
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\SortGini\bin\Debug\SortGini.exe.config
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\SortGini\bin\Debug\SortGini.exe
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\SortGini\bin\Debug\SortGini.pdb
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\SortGini\bin\Debug\LearnTest.exe
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\SortGini\bin\Debug\WeightsCreation.exe
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\SortGini\bin\Debug\LearnTest.pdb
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\SortGini\bin\Debug\LearnTest.exe.config
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\SortGini\bin\Debug\WeightsCreation.pdb
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\SortGini\bin\Debug\WeightsCreation.exe.config
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\SortGini\obj\Debug\SortGini.csprojAssemblyReference.cache
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\SortGini\obj\Debug\SortGini.csproj.CoreCompileInputs.cache
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\SortGini\obj\Debug\SortGini.csproj.CopyComplete
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\SortGini\obj\Debug\SortGini.exe
+C:\DATA\WeightsCreation - BIPS Strategie - Gravidata\SortGini\obj\Debug\SortGini.pdb
+C:\DATA\WeightsCreation - Simplified\SortGini\bin\Debug\SortGini.exe.config
+C:\DATA\WeightsCreation - Simplified\SortGini\bin\Debug\SortGini.exe
+C:\DATA\WeightsCreation - Simplified\SortGini\bin\Debug\SortGini.pdb
+C:\DATA\WeightsCreation - Simplified\SortGini\bin\Debug\WeightsCreation.exe
+C:\DATA\WeightsCreation - Simplified\SortGini\bin\Debug\WeightsCreation.pdb
+C:\DATA\WeightsCreation - Simplified\SortGini\bin\Debug\WeightsCreation.exe.config
+C:\DATA\WeightsCreation - Simplified\SortGini\obj\Debug\SortGini.csprojAssemblyReference.cache
+C:\DATA\WeightsCreation - Simplified\SortGini\obj\Debug\SortGini.csproj.CoreCompileInputs.cache
+C:\DATA\WeightsCreation - Simplified\SortGini\obj\Debug\SortGini.csproj.CopyComplete
+C:\DATA\WeightsCreation - Simplified\SortGini\obj\Debug\SortGini.exe
+C:\DATA\WeightsCreation - Simplified\SortGini\obj\Debug\SortGini.pdb

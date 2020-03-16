@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightsCreation", "WeightsCreation\WeightsCreation.csproj", "{90FBA0C6-A9DF-48E1-A953-C430037A4A46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortGini", "SortGini\SortGini.csproj", "{5089605F-47BE-408B-AB8B-754AB6612295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90FBA0C6-A9DF-48E1-A953-C430037A4A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90FBA0C6-A9DF-48E1-A953-C430037A4A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90FBA0C6-A9DF-48E1-A953-C430037A4A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90FBA0C6-A9DF-48E1-A953-C430037A4A46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5089605F-47BE-408B-AB8B-754AB6612295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5089605F-47BE-408B-AB8B-754AB6612295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5089605F-47BE-408B-AB8B-754AB6612295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5089605F-47BE-408B-AB8B-754AB6612295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDC33065-00E4-4D88-A6C0-0922E1FA141F}
+	EndGlobalSection
+EndGlobal
